@@ -1,0 +1,1 @@
+A chave API do nosso projeto não sera compartilhada neste repositorio por motivos de segurança, ao invés, sera compartilhada por meios privados de comunicação (whatsapp, microsoft teams) e apresentada ao professor durante a apresentação do projeto.

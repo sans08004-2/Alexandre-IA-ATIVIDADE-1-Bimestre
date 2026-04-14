@@ -6,7 +6,7 @@ from groq import Groq
 
 # --- Configuração ---
 #  sua chave de API 
-CHAVE_API_GROQ = "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"
+CHAVE_API_GROQ = "CHAVE API GROK"
 cliente = Groq(api_key=CHAVE_API_GROQ)
 
 LARGURA, ALTURA = 800, 600
